@@ -1,0 +1,18 @@
+.img{
+    width:94%;
+    height: 500px;
+    margin-left: 3%;
+}
+.p1 {
+    display: inline-block;
+    color: #ffffff;
+}
+.img2{
+    width:250px;
+    height: 250px;
+}
+.img1{
+	display: block;
+	width: 100%;
+	height: auto;
+}
